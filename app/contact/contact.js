@@ -42,7 +42,7 @@ export default function Home() {
                     <div className="col-12 col-sm-6">
                       <div className="d-flex mb-0">
                         <div className="me-4 text-primary">
-                        <img src="img/6.png" alt="Logo" width="45" height="45" className="d-inline-block align-text-top" />
+                        <img src="public/img/card3.png" alt="Logo" width="45" height="45" className="d-inline-block align-text-top" />
                         </div>
                         <div>
                           <h4 className="mb-3">Email</h4>

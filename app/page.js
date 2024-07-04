@@ -6,13 +6,13 @@ export default function Home() {
     <div className="carousel carousel-dark slide" id="carouselExample">
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src="/img/3.png" className="d-block w-100" alt="Image 1" />
+          <img src="/public/img/card1.png" className="d-block w-100" alt="Image 1" />
         </div>
         <div className="carousel-item">
-          <img src="/img/4.png" className="d-block w-100" alt="Image 2" />
+          <img src="/public/img/card3.png" className="d-block w-100" alt="Image 2" />
         </div>
         <div className="carousel-item">
-          <img src="/img/5.png" className="d-block w-100" alt="Image 3" />
+          <img src="/public/img/card1.png" className="d-block w-100" alt="Image 3" />
         </div>
       </div>
       <button
